@@ -1,0 +1,13 @@
+{
+    "name": "pz_7_2/app",
+    "description": "Поликлиника - приложение для записи на прием",
+    "require": {
+        "php": "^8.0",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
