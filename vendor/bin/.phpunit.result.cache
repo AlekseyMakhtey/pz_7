@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"ClinicTest::testBookAppointment":0.018,"ClinicTest::testBookAppointmentWhenTimeIsTaken":0.003,"ClinicTest::testGetDoctorSpecialty":0,"ClinicTest::testGetDoctorSpecialtyWhenDoctorNotFound":0,"ClinicTest::testGetAppointments":0.001}}

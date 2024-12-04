@@ -56,3 +56,7 @@ class ClinicTest extends TestCase
         $this->assertCount(2, $appointments);
     }
 }
+
+// vendor/bin/phpunit tests/ClinicTest.php
+// -jar jenkins.war
+// D:\Учёба\ИТиВП>java -jar jenkins.war
